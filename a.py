@@ -26,5 +26,5 @@ class Solution(object):
         
 a1 = Solution()
 
-a1.areNumbersAscending("36 claim 37 38 39 39 41 hire final 42 43 twist shift young 44 miss 45 46 sad 47 48 dig 49 50 green 51 train 52 broad 53")
+a1.areNumbersAscending("46 sad 47 48 dig 49 50 green 51 train 52 broad 53")
 
