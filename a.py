@@ -12,8 +12,6 @@ class Solution(object):
                 return False
                 
         for i in nums:
-            # print(f'i{i}')
-            # print(f'n {nums[0]}')
             if nums[0] == i:
                 count+=1
         if count == len(nums):
