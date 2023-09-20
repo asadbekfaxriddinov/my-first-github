@@ -27,4 +27,3 @@ class Solution(object):
 a1 = Solution()
 
 a1.areNumbersAscending("46 sad 47 48 dig 49 50 green 51 train 52 broad 53")
-
